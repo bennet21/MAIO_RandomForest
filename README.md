@@ -1,2 +1,2 @@
 # MAIO_RandomForest
-Setup and training of a Random Forest Model to predict NO2 concentrations from meteorological data.
+This project was an individual assignment as part of the Making Analizing and Interpreting Observations (MAIO) course. Here, a Random Forest Model (RF) was setup and trained to predict NO2 concentrations from meteorological data.
